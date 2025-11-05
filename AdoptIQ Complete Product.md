@@ -8911,8 +8911,8 @@ Viral growth: 623 original players refer 1,847 new players over 30 days
 **Engineering Focus:**
 - Build core mission engine
 - Implement wallet authentication
-- Develop basic dashboard
-- Create audit request system (manual processing initially)
+- Develop the entiler dashboard
+- Create audit request system
 - Smart contract development (Billing, Certificate Registry)
 - Basic fraud detection (rule-based)
 
